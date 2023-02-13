@@ -1,1 +1,1 @@
-# -2022-q3-dist-partners-run-through
+# 2022-q3-dist-partners-run-through
